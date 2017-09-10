@@ -1,3 +1,4 @@
+# crawler_Example
 ## 网络爬虫
 ##### 简介：
 ![简介1](/home/yang/pylab/WebCrawler/web1.jpg)
@@ -125,4 +126,4 @@ for links in link_node:
 分析目标:
 入口页面 ； URL 格式  ； 数据格式 ； 页面编码
 ![简介17](web17.jpg)
-[代码入口](https://github.com/haugy/crawler_Example.git)# crawler_Example
+[代码入口](https://github.com/haugy/crawler_Example.git)
