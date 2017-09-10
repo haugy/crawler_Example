@@ -1,6 +1,6 @@
 ## 网络爬虫
 ##### 简介：
-![简介1](/home/yang/pylab/WebCrawler/web1.jpg)
+![简介1](web1.jpg)
 - - -
 ###### 价值：
 1. 爬虫的价值：爬取互联网数据，为我所用！（本质是数据的整合、处理与展示。）
@@ -63,7 +63,7 @@ request.add_header('User-Agent', 'Mozilla/5.0')
 response = urllib2.urlopen(request)
 ```
 ++网页下载方法3：++
-![简介10](/home/yang/pylab/WebCrawler/web10.jpg)
+![简介10](web10.jpg)
 ```
 import urllib2,cookielib
 #下载器3：
